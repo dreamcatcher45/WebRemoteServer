@@ -1,0 +1,61 @@
+# Build Folders
+bin/
+obj/
+out/
+
+# Visual Studio Files
+.vs/
+*.user
+*.suo
+*.sln.ide
+
+# Rider Files
+.idea/
+*.sln.iml
+
+# User-specific files
+*.rsuser
+*.sln.docstates
+
+# Visual Studio Code files
+.vscode/
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# Logs
+*.log
+
+# Temporary Files
+*.tmp
+*.temp
+
+# NuGet Packages
+*.nupkg
+packages/
+
+# Publish Output
+publish/
+
+# Test Results
+TestResults/
+*.trx
+
+# Coverage Results
+coverage/
+
+# Configuration Files
+appsettings.Development.json
+
+# Secrets and Keys (if applicable)
+secrets.json
+
+# DotNet CLI files
+project.lock.json
+project.fragment.lock.json
+
+# Other files to ignore (customize as needed)
+*.db
+*.pdb
+
+/Output
